@@ -1,0 +1,22 @@
+hait=0.1*landa
+wavegen=1              
+HH1=2.0 !1.5  !0.07 !Froude*0.07 !10.0
+
+XGage(1)=0.0 !0.5*landa
+XGage(2)=landa
+Xgage(3)=2.0*landa
+XGage(4)=3.0*landa
+XGage(5)=4.0*Landa !6.0*landa
+XGage(6)=5.0*landa
+
+XGage(7)=6*landa
+XGage(8)=7*landa
+XGage(9)=8*landa
+XGage(10)=9.0*landa
+XGage(11)=10.0*landa !15*landa
+
+XGage(12)=11*landa
+XGage(13)=12*landa
+XGage(14)=lx-landa
+
+

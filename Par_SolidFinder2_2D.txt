@@ -1,0 +1,15 @@
+IniH=0 !-0.0055 
+point(1,1)=floatx-5
+point(1,2)=YFreeIni-2.8     !0.25+IniH
+
+point(2,1)=floatx-5 
+point(2,2)=YFreeIni-3.8     !0.25+IniH
+
+point(3,1)=floatx+5        !0.231255
+point(3,2)=YFreeIni-3.8    !0.23125+IniH
+
+point(4,1)=floatx+5        !0.25
+point(4,2)=YFreeIni-2.8   !-0.186+IniH
+
+
+
